@@ -57,7 +57,7 @@ Make sure you have a C++ compiler installed (`g++` or equivalent).
 g++ For-One-Player.cpp -o single_player
 ./single_player
 
-#### For Two Players:
+
 ```bash
 g++ For-Two-Players.cpp -o two_players
 ./two_players
