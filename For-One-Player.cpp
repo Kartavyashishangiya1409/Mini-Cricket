@@ -15,7 +15,7 @@ int main()
     cout << "If guess is correct → Batter is OUT" << endl;
     cout << "Runs add up if not OUT" << endl;
     cout << "Second player chases target" << endl;
-    cout << "Higher score wins. Draw if equal" << endl;
+    cout << "Higher score wins. Draw if equal" << endl << endl;
 
 name:
 
