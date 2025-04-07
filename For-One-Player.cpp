@@ -11,7 +11,7 @@ int main()
     cout << "Player and Bot with different names" << endl;
     cout << "Toss decides who bats or bowls" << endl;
     cout << "Number of Overs is set by user" << endl;
-    cout << "Batter hits (0–6), opponent predicts (0–6)" << endl;
+    cout << "Batter hits (0 to 6), opponent predicts (0 to 6)" << endl;
     cout << "If guess is correct → Batter is OUT" << endl;
     cout << "Runs add up if not OUT" << endl;
     cout << "Second player chases target" << endl;
